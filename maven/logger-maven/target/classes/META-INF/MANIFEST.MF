@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: Etienne.Roulet
+Build-Jdk: 9.0.4
+Main-Class: ch.mh.logger.log.LoggerTest
+Created-By: Maven Integration for Eclipse
+
